@@ -114,18 +114,30 @@ if st.session_state.comecar:
     with container:
         st.markdown(f"""
         <div class="mensagem-texto">
-        🎂 Feliz Aniversário, meu príncipe lindo!
-                    
-        Oi, meu amor! Vim aqui hoje, nesse dia tão especial, para te desejar toda a felicidade do mundo.
-
-        Infelizmente não posso estar aí fisicamente com você, mas saiba que meu coração está aí, batendo pertinho do seu. Tentei fazer uma gracinha na linguagem que você mais utiliza para celebrar o seu dia
-
-        Amor, hoje o dia é seu, mas o presente quem ganhou fui eu por ter você na minha vida. Você é uma pessoa incrível: carinhoso, inteligente, engraçado e o motivo de eu ser a pessoa mais feliz desse mundo.
-
-        Desejo que seu dia seja maravilhoso, assim como você.
-
+        Feliz Aniversário, meu amor! 🎂
+        Oi, João Pedro! Hoje o dia é todo seu, e eu não poderia deixar passar sem te dizer o quanto sou grata por esses 7 meses ao seu lado. 
+        Parece que foi ontem que você apareceu na minha vida, no momento em que eu menos esperava, trazendo exatamente tudo o que eu sempre admirei em alguém.
+        
+        Nesse tempo, descobri que te amar é a coisa mais fácil e gostosa do mundo. 
+        É incrível como esse sentimento se tornou tão leve e bonito. 
+        Você me tira as risadas mais sinceras e me deixa sempre com aquele sorriso bobo no rosto e o coração transbordando. 
+        Mais do que me fazer feliz, você me faz sentir bem comigo mesma.
+        
+        Como não amar você? Já perdi as contas de quantas vezes me peguei admirando seu sorriso ou me perdendo nesses olhos que me cativam tanto. 
+        E agora que já conheço o seu toque, o sabor da sua boca e a textura desse seu cabelo fofo, a saudade aperta ainda mais quando não estou por perto para afundar minhas mãos nele.
+        Mas, para além da nossa química, o que me prende ainda mais é sua inteligência. 
+        Seu amor pela história, seus fatos aleatórios, esse jeitinho doido que amo demais. 
+        Sinto que a gente combina em tantos detalhes que, em vários momentos, parece que somos um só. 
+        Meu coração sabe que é por você, que ele bate mais forte todos os dias.
+        
+        Queria muito estar aí fisicamente agora para te dar um abraço apertado, mas sinta meu coração batendo pertinho do seu. 
+        Hoje o dia é seu, mas o presente é meu por ter você na minha vida. 
+        Você é carinhoso, inteligente, engraçado e o motivo da minha maior felicidade.
+        Que seu dia seja tão maravilhoso quanto você. 
+        Eu te amo mais que ontem e menos que amanhã. 
+        Obrigada por esses 7 meses e por me deixar viver sentimentos tão lindos ao seu lado.
+        
         Com todo o meu amor,
-
         Sua namorada que te ama demais! ❤️</span>
         </div>
         """, unsafe_allow_html=True)
